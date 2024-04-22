@@ -7,10 +7,10 @@ I'm fullstack developer.
 - 🌱 I’m currently learning Asp.net, Python, Javascript, React Js.
 - 📫 How to reach me: ahmet-eser42@hotmail.com
 <hr/>
-<a href="https://github.com/anuraghazra/github-readme-stats](https://github.com/AhmetEserr">
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AhmetEserr)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AhmetEserr" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat](https://github.com/AhmetEserr">
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/AhmetEserr)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetEserr&layout=compact&langs_count=8&card_width=320" />
 </a>
 
