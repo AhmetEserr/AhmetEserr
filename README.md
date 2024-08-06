@@ -4,7 +4,7 @@ Welcome to my github profile :)
 
 I'm fullstack developer.
 - 🔭 I’m currently working on  Asp .Net projects to improve my Asp .Net skills.
-- 🌱 I’m currently learning Asp.net, Python, Javascript, React Js.
+- 🌱 I’m currently learning Asp.net, Python, Javascript, React Js, Flutter.
 - 📫 How to reach me: ahmettt.eserrr@gmail.com
 <hr/>
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AhmetEserr)">
