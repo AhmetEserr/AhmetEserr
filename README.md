@@ -7,6 +7,7 @@ I'm fullstack developer.
 - 🌱 I’m currently learning Asp.net, Python, Javascript, React Js, Flutter.
 - 📫 How to reach me: ahmettt.eserrr@gmail.com
 <hr/>
+<!--
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AhmetEserr)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AhmetEserr" />
 </a>
